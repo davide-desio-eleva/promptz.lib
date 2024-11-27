@@ -1,0 +1,19 @@
+# Boostrap Flask App in /dev
+
+1. Create a folder in your project workspace (I call mine "project", the name might be significant, I have not tried others)
+2. In this folder, create a file called "project-standards.md"
+3. Add the following markdown into this file
+
+```
+When creating new Python code, use the following guidance
+
+- Generate code using the following structure and layout
+
+├── static/
+├── models/
+├── routes/
+├── templates/
+├  app.py
+```
+4. Save the file, and then you are good to go
+
